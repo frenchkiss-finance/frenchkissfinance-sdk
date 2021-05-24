@@ -1,7 +1,7 @@
 {
   "name": "@frenchkiss-libs/sdk",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "🛠 An SDK for building applications on top of frenchkiss.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@uniswap/v2-core": "^1.0.0",
-    "@frenchkiss-libs/frenchkiss-finance-core": "^1.0.0",
+    "@frenchkiss-libs/frenchkiss-finance-core": "^1.0.1",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
